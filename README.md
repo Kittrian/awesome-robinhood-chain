@@ -27,6 +27,7 @@
 - `[live]` **[Uniswap](https://uniswap.org)** — live on Robinhood Chain from day one.
 - `[live]` **[1inch](https://1inch.io)** — DEX aggregator routing across pools.
 - `[beta]` **[Lighter](https://lighter.xyz)** — orderbook-style trading for Stock Tokens.
+- `[experimental]` **[QuantumPools](https://app.quantumpools.io)** — concentrated-liquidity vault and rangebook management for Robinhood Chain pools.
 
 ## Oracles & Data
 
